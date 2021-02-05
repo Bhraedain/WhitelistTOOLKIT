@@ -1,1 +1,1 @@
-return {"UltimateSkids","yKretinek123","Defaultio"}
+return {"UltimateSekids","yKretinek123","Defaultio"}
